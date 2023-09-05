@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title": "Video game",
+            "body": "A video game[a] or computer game is an electronic game that involves interaction with a user interface or input device (such as a joystick, controller, keyboard, or motion sensing device) to generate visual feedback from a display device, most commonly shown in a video format on a television set, computer monitor, flat-panel display or touchscreen on handheld devices, or a virtual reality headset. Most modern video games are audiovisual, with audio complement delivered through speakers or headphones, and sometimes also with other types of sensory feedback (e.g., haptic technology that provides tactile sensations), and some video games also allow microphone and webcam inputs for in-game chatting and livestreaming.",
+            "author" : "Jason",
+            "id" : 1
+        },
+        {
+            "title": "Web development",
+            "body": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+            "author" : "Wikipedia",
+            "id" : 2
+        }
+    ]
+}
